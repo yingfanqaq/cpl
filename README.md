@@ -1,0 +1,2 @@
+# cpl
+exercise for c
